@@ -71,4 +71,4 @@ To make sure your project is on track, test by:
 
 These test cases cover a comprehensive range of scenarios to ensure that the Minitalk project functions correctly, handles errors gracefully, and meets all the requirements outlined in the project document.
 
-#LUCK is here with you in THIS TEST 🌝
+## LUCK be you in THESE TESTS 🙈
